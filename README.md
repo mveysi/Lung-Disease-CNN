@@ -4,7 +4,8 @@
 
 
 Bu proje de CNN modeli ile akciğer hastalığını tespit edeceğiz. Projeyi Google Colab üzerinden yaptım. Veri setini de Kaggle üzerinden çektim. Bu bağlantıyı nasıl yaptığımı aşağıda komutlarını yazacağım.
-Veri setinde 3 sınıf vardır.
+
+Veri setimiz de 3 sınıf vardır. Bu sınıflar sayesinde hastalık hakkında tespit yapabiliyoruz.
 
 Normal: Bu görüntüler sağlıklı akciğer durumlarını temsil eder ve tanı prosedürlerinde karşılaştırma için referans görevi görür.
 
