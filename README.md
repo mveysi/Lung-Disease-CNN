@@ -1,5 +1,8 @@
 # CONVOLUTİONAL NEURAL NETWORK
 
+![10462_2024_10721_Fig2_HTML](https://github.com/user-attachments/assets/efc21bf5-dff3-4e77-840e-42c1db90f7ff)
+
+
 Bu proje de CNN modeli ile akciğer hastalığını tespit edeceğiz. Projeyi Google Colab üzerinden yaptım. Veri setini de Kaggle üzerinden çektim. Bu bağlantıyı nasıl yaptığımı aşağıda komutlarını yazacağım.
 
 ![dataset-lung](https://github.com/user-attachments/assets/872201e7-fd90-440b-8492-7592ccb06052)
@@ -13,7 +16,7 @@ Bu proje de CNN modeli ile akciğer hastalığını tespit edeceğiz. Projeyi Go
 
 # Lung Disease Veri Seti:
 
-Veri setine aşşağıda ki linkten ulaşabilirsiniz. 
+Veri setine aşağıdaki linkten ulaşabilirsiniz. 
 
 [https://www.kaggle.com/datasets/fatemehmehrparvar/lung-disease](url)
 
