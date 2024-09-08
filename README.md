@@ -13,7 +13,11 @@ Lung Opacity: Bu sınıf, çeşitli düzeylerde akciğer anormalliklerini göste
 
 Viral Pneumonia: Bu sınıftaki görseller viral zatüre vakalarıyla ilişkilendirilmiş olup, bu spesifik akciğer enfeksiyonunun anlaşılmasına ve tanımlanmasına katkıda bulunmaktadır.
 
-![dataset-lung](https://github.com/user-attachments/assets/ed2c2f3d-28d9-47f1-a22c-47ec2f9d0398)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/939423f1-08ff-4a9d-bdba-85e824a097ed" width="30%" />
+  <img src="https://github.com/user-attachments/assets/6f843129-8253-41eb-9965-f58fe11157be" width="30%" />
+  <img src="https://github.com/user-attachments/assets/b287c3c0-1430-411a-8eb3-b298ca4d40cd" width="30%" />
+</p>
 
 
 # Model Doğruluk Grafikleri
