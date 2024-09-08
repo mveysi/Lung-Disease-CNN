@@ -19,16 +19,24 @@ Veri setine aşşağıda ki linkten ulaşabilirsiniz.
 
 # KAGGLE VE GOOGLE COLAB BAĞLANTISI
 
-   from google.colab import drive
-   drive.mount("/content/gdrive")
+1- Önce Drive'mıza bağlanacağız.
+         from google.colab import drive
+         drive.mount("/content/gdrive")
 
+2- Drive da veri setimiz için bir dosya oluşturacağız.
 
-   os.environ["KAGGLE_CONFIG_DIR"] = "/content/gdrive/MyDrive/Colab Notebooks"
-   %cd "/content/gdrive/MyDrive/Colab Notebooks/veri3akciğer"
+         os.environ["KAGGLE_CONFIG_DIR"] = "/content/gdrive/MyDrive/Colab Notebooks"
+         %cd "/content/gdrive/MyDrive/Colab Notebooks/veri3akciğer"
 
-   !kaggle datasets download -d fatemehmehrparvar/lung-disease
+3- Kaggle' da proje api'sini kopyalıyoruz.
 
-   !unzip \*.zip && rm *.zip
+         !kaggle datasets download -d fatemehmehrparvar/lung-disease
 
-   !ls
+4- Zip dosyası olarak inen veri setini zipten çıkartıyoruz.
+
+         !unzip \*.zip && rm *.zip
+
+5- Dosya yolunu gösterecek.
+
+         !ls
 
