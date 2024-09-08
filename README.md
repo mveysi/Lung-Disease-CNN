@@ -4,8 +4,16 @@
 
 
 Bu proje de CNN modeli ile akciğer hastalığını tespit edeceğiz. Projeyi Google Colab üzerinden yaptım. Veri setini de Kaggle üzerinden çektim. Bu bağlantıyı nasıl yaptığımı aşağıda komutlarını yazacağım.
+Veri setinde 3 sınıf vardır.
 
-![dataset-lung](https://github.com/user-attachments/assets/872201e7-fd90-440b-8492-7592ccb06052)
+Normal: Bu görüntüler sağlıklı akciğer durumlarını temsil eder ve tanı prosedürlerinde karşılaştırma için referans görevi görür.
+
+Lung Opacity: Bu sınıf, çeşitli düzeylerde akciğer anormalliklerini gösteren ve analiz için çeşitli vakalar sağlayan X-ışını görüntülerini içerir.
+
+Viral Pneumonia: Bu sınıftaki görseller viral zatüre vakalarıyla ilişkilendirilmiş olup, bu spesifik akciğer enfeksiyonunun anlaşılmasına ve tanımlanmasına katkıda bulunmaktadır.
+
+![dataset-lung](https://github.com/user-attachments/assets/ed2c2f3d-28d9-47f1-a22c-47ec2f9d0398)
+
 
 # Model Doğruluk Grafikleri
 
